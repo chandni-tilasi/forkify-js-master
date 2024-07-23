@@ -1,6 +1,6 @@
 # forkify Project
 
-Created By Abhideep Ghosh
+Created By Chandni Tilasi
 
 ## About The Project
 
